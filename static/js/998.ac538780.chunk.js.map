@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/998.ac538780.chunk.js","mappings":"oIAUA,UARA,WACE,OACE,+BACE,SAAC,KAAD","sources":["app/Index/Home.tsx"],"sourcesContent":["import { Outlet } from \"react-router-dom\";\n\nfunction Home() {\n  return (\n    <>\n      <Outlet />\n    </>\n  );\n}\n\nexport default Home;\n"],"names":[],"sourceRoot":""}
